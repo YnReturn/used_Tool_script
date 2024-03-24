@@ -18,3 +18,6 @@
 
 # Re_suffix_name.py
 修改文件后缀名，exe-rar， 具有一定的普遍性
+# raku_regex
+## delSong.raku
+删除重复歌曲,很粗糙!会误删.根据名字来的.
